@@ -2,12 +2,12 @@
   "Routes": [
     {
       "DownstreamPathTemplate": "/api/catalog/GetProducts",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHttpMethod": "GET",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 44385
+          "Host": "10.2.0.5",
+          "Port": 80
         }
       ],
       "UpstreamPathTemplate": "/catalog/GetProducts",
@@ -24,11 +24,11 @@
     },
     {
       "DownstreamPathTemplate": "/api/AuthManagement/Register",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 44314
+          "Host": "10.2.0.4",
+          "Port": 80
         }
       ],
       "UpstreamPathTemplate": "/AuthManagement/Register",
@@ -36,11 +36,11 @@
     },
     {
       "DownstreamPathTemplate": "/api/AuthManagement/Login",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 44314
+          "Host": "10.2.0.4",
+          "Port": 80
         }
       ],
       "UpstreamPathTemplate": "/AuthManagement/Login",

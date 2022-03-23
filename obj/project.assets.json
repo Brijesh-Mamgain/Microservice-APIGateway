@@ -1290,23 +1290,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\brijesh.mamgain\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\astdevuser\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Brijesh\\Projects\\Microservices\\MicroserviceDemo\\MicroserviceDemo\\APIGateway\\APIGateway.csproj",
+      "projectUniqueName": "C:\\Brijesh\\Projects\\MicroserviceDemo\\APIGateway\\APIGateway.csproj",
       "projectName": "APIGateway",
-      "projectPath": "D:\\Brijesh\\Projects\\Microservices\\MicroserviceDemo\\MicroserviceDemo\\APIGateway\\APIGateway.csproj",
-      "packagesPath": "C:\\Users\\brijesh.mamgain\\.nuget\\packages\\",
-      "outputPath": "D:\\Brijesh\\Projects\\Microservices\\MicroserviceDemo\\MicroserviceDemo\\APIGateway\\obj\\",
+      "projectPath": "C:\\Brijesh\\Projects\\MicroserviceDemo\\APIGateway\\APIGateway.csproj",
+      "packagesPath": "C:\\Users\\astdevuser\\.nuget\\packages\\",
+      "outputPath": "C:\\Brijesh\\Projects\\MicroserviceDemo\\APIGateway\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\brijesh.mamgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\astdevuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1367,7 +1363,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
