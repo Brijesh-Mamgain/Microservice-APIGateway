@@ -6,7 +6,7 @@
       "DownstreamHttpMethod": "GET",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.2.0.5",
+          "Host": "10.2.0.4",
           "Port": 80
         }
       ],
@@ -27,7 +27,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.2.0.4",
+          "Host": "10.2.0.5",
           "Port": 80
         }
       ],
@@ -39,8 +39,9 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.2.0.4",
+          "Host": "10.2.0.5",
           "Port": 80
+
         }
       ],
       "UpstreamPathTemplate": "/AuthManagement/Login",

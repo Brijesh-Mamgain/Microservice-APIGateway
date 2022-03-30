@@ -104,7 +104,6 @@ C:\Brijesh\Projects\MicroserviceDemo\APIGateway\bin\Debug\net5.0\Newtonsoft.Json
 C:\Brijesh\Projects\MicroserviceDemo\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\Brijesh\Projects\MicroserviceDemo\APIGateway\bin\Debug\net5.0\Ocelot.dll
 C:\Brijesh\Projects\MicroserviceDemo\APIGateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Brijesh\Projects\MicroserviceDemo\APIGateway\obj\Debug\net5.0\APIGateway.csproj.AssemblyReference.cache
 C:\Brijesh\Projects\MicroserviceDemo\APIGateway\obj\Debug\net5.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
 C:\Brijesh\Projects\MicroserviceDemo\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfoInputs.cache
 C:\Brijesh\Projects\MicroserviceDemo\APIGateway\obj\Debug\net5.0\APIGateway.AssemblyInfo.cs
